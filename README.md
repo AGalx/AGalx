@@ -48,12 +48,7 @@ Damn Vulnerable DeFi
 - Puppet
 
 Ethernaut
-- reentrancy
-- delegatecall
-- storage manipulation
-- gas constraints
-- proxy patterns
-- access control
+-all levels done, regulary doing these again for training
 
 currently building:
 - exploit PoCs
