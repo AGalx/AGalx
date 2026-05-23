@@ -1,6 +1,7 @@
 # alxgdi
 
-Smart contract security & DeFi exploitation research.
+Smart contract security Researcher
+& DeFi exploitation research.
 
 6+ years involved in crypto and DeFi:
 - investing
