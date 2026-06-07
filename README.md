@@ -37,7 +37,7 @@ stack:
 
 projects:
 
-WETH invariant training: https://github.com/AGalx/weth-invariant-training
+WETH invariant training
 - built a minimal WETH-style contract for security testing practice
 - wrote Foundry invariant tests around solvency, ghost accounting, and user balance sync
 - used handler-based fuzzing to model deposits, transfers, and withdrawals
