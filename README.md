@@ -11,7 +11,7 @@ Smart contract security Researcher
 - liquidity pools
 - protocol interactions
 
-Currently learning and building through:
+finished first step: learned and practiced.
 - Damn Vulnerable DeFi
 - Ethernaut
 - Foundry exploit development
@@ -46,24 +46,22 @@ WETH invariant training: https://github.com/AGalx/weth-invariant-training
 practice:
 
 Damn Vulnerable DeFi
-- Unstoppable
-- Naive Receiver
-- Truster
-- Side Entrance
-- The Rewarder
-- Selfie
-- Compromised
-- Puppet
+- all levels done.
 
 Ethernaut
 -all levels done, regulary doing these again for training
 
-currently building:
+finished building:
 - exploit PoCs
 - Foundry security tests
 - attack simulations
 - audit-style workflows
 - DeFi security intuition
+
+now:
+
+-bug bounty hunting, deep undestanfing of contract before 
+doing something always.
 
 long-term:
 - DeFi security research
