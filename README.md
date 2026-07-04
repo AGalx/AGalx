@@ -60,7 +60,7 @@ finished building:
 
 now:
 
--bug bounty hunting, deep undestanfing of contract before 
+-bug bounty hunting, deep undestanding of contract before 
 doing something always.
 
 long-term:
